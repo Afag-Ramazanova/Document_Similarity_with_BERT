@@ -15,7 +15,7 @@ Before running the code, ensure you have the following dependencies and datasets
 ### **Required Python Packages**
 Install the following Python packages:
 ```bash
-pip install -U sentence-transformers transformers scikit-learn torch pandas gdown
+pip install -U sentence-transformers transformers scikit-learn torch pandas gdown ```
 
 # Setup and Instructions
 
@@ -48,7 +48,7 @@ These models are automatically downloaded during runtime. Ensure an active inter
 Download the trained BERT model (`finalized_model.pth`) using the `gdown` library:
 
 ```bash
-gdown https://drive.google.com/uc?id=1F6xWrYqsGD-o8eSwIbUedLmtSoNNfhVv
+gdown https://drive.google.com/uc?id=1F6xWrYqsGD-o8eSwIbUedLmtSoNNfhVv ```
 
 ## 4. Running the Code
 
