@@ -1,4 +1,3 @@
-# Document_Similarity_with_BERT
 # Document Similarity with BERT
 
 This project demonstrates the use of pre-trained BERT models and other deep learning techniques to compute document similarity, summarize text, and train/evaluate a semantic similarity classifier.
