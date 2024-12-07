@@ -1,0 +1,6 @@
+Metrics: {'accuracy': 0.4880348078317622, 'precision': 0.4880348078317622, 'recall': 1.0, 'f1_score': 0.6559454191033138, 'confusion_matrix': array([[  0, 706],
+       [  0, 673]])}
+,
+{'eval_loss': 0.4091681241989136, 'eval_accuracy': 0.8150833937635968, 'eval_precision': 0.8154445948919082, 'eval_recall': 0.8150833937635968, 'eval_f1': 0.81510926241468, 'eval_conf_matrix': [[569, 137], [118, 555]], 'eval_runtime': 6.8142, 'eval_samples_per_second': 202.372, 'eval_steps_per_second': 3.229, 'epoch': 10.0}
+Confusion Matrix:
+[[569, 137], [118, 555]]
